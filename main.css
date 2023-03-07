@@ -1,0 +1,65 @@
+
+body{
+    font-size: 14px; 
+    font-family: "Lobster",cursive;
+}
+
+a {text-decoration: none}
+
+
+.container{
+    background-color: #484848;
+    border: 4px solid  #484848;
+}
+
+.container > div{
+    font-size: 0.6cm;
+    margin: 100PX;
+    
+}
+
+.account{
+    color: ivory;
+    text-align: center;
+    font-size: 70px;
+    margin-bottom: 300px;
+    margin-top: 90px;
+    
+}
+
+.in{
+    border: solid ivory;
+    background-color: ivory;
+    text-align: center;
+}
+
+.name{
+    background-color: ivory;
+    padding: 16px;
+    border-radius: 18px;
+    color:#484848 ;
+
+}
+
+.email{
+    background-color: ivory;
+    padding: 16px;
+    border-radius: 18px;
+    color:#484848 ;
+}
+
+.password{
+    background-color: ivory;
+    padding: 16px;
+    border-radius: 18px;
+    color:#484848 ;
+}
+
+.confirm{
+    background-color: ivory;
+    padding: 16px;
+    border-radius: 18px;
+    color:#484848 ;
+
+}
+

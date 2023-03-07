@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+
+#img1{
+    width: 650px;
+    height:331.667;
+    margin-bottom: 100px;
+    
+}
+
+#prof{
+    color: palevioletred
+    margin-left: 200px;
+    font-family: "Lobster",cursive;
+    
+}
